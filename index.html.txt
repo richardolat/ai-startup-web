@@ -10,3 +10,5 @@
 </html>
 # This is the Admin creating an index.html file for Tom and Jerry.
 # This is Tom adding Navigation to the AI-website
+Contact info: AREA 5, Lane 10, Agigigbo street, Victoria island, Lagos
+Phone number: 0809362718
